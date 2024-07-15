@@ -16,10 +16,10 @@ timezone:
 
 title: N1arut Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Red Team Note Book
 
 description: >- # used by seo meta and the atom feed
-  A Red Team Blog.
+  Just writing about what I learn recently.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -86,7 +86,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: light | dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
